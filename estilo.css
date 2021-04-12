@@ -1,0 +1,35 @@
+p{
+    color:#080808;
+    font-size: 20px;   
+}
+h1{
+    color:blueviolet;
+    
+}
+.resaltado{
+    color:rgb(97, 8, 240) ;
+}
+.distinto{ color: rgb(92, 8, 109);
+    font: size 40px; 
+}
+.fondopendulo{ background-color: rgb(203, 212, 176);
+    font-size: 20px;
+}
+.colorindex{ background-color: rgb(60, 240, 231);
+    font-size: 20PX
+}
+
+h1 { text-align: center;}
+h2{
+    color: rebeccapurple;
+}
+.colordefondolimpieza { background-color: coral;
+}
+.estiloregistros{ background-color: rgb(236, 163, 194);
+}
+.estilorunas { background-color: rgb(160, 218, 61);
+}
+.estilotarot { background-color: rgb(224, 122, 177);
+}
+.estiloreiki {background-color: rgb(236, 224, 152);
+}
